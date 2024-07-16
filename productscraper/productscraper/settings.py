@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = "productscraper.spiders"
 
 FEEDS = {'data.json' : {'format' : 'json'}}
 
-SCRAPEOPS_API_KEY = "598cc038-fd10-467b-9df6-da8eba2e9208"
+SCRAPEOPS_API_KEY = "API KEY"
 SCRAPEOPS_PROXY_ENABLED = True
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
